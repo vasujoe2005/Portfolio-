@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vasujoe2005.github.io/Portfolio-/sitemap.xml
